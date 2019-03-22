@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>158. cdn20180920mm024-e1547271262803.jpg&amp;w=840&amp;h=630.jpg</filename>
+	<path>~/hat-detector/data/images/158. cdn20180920mm024-e1547271262803.jpg&amp;w=840&amp;h=630.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>7</ymin>
+			<xmax>471</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>145</ymin>
+			<xmax>637</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

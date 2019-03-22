@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>541. 190104-j-balvin-nicky-jam-220p-na_38d87c0c1393f8df5e5f6ee6a7866c88.fit-760w.jpg</filename>
+	<path>~/hat-detector/data/images/541. 190104-j-balvin-nicky-jam-220p-na_38d87c0c1393f8df5e5f6ee6a7866c88.fit-760w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>21</ymin>
+			<xmax>395</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>23. d-hats-d copy.jpg</filename>
+	<path>~/hat-detector/data/images/23. d-hats-d copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>686</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>14</ymin>
+			<xmax>193</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

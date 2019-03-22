@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>325. 0x5wioukwcqmpm6tthe7_fgay55mczja6guzyvyff98divgimy6-jbsrv0kyrr7fjtcpsnbs9oyowovuvszozg=s750.jpg</filename>
+	<path>~/hat-detector/data/images/325. 0x5wioukwcqmpm6tthe7_fgay55mczja6guzyvyff98divgimy6-jbsrv0kyrr7fjtcpsnbs9oyowovuvszozg=s750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>1</ymin>
+			<xmax>347</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>304. 180807-ex-yankees-pitcher-guilty-plea-feature.jpg</filename>
+	<path>~/hat-detector/data/images/304. 180807-ex-yankees-pitcher-guilty-plea-feature.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>618</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>19</ymin>
+			<xmax>217</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

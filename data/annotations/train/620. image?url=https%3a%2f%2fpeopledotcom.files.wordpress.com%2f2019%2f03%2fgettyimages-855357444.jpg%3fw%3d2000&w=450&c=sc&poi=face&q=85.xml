@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>620. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2019%2f03%2fgettyimages-855357444.jpg%3fw%3d2000&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/620. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2019%2f03%2fgettyimages-855357444.jpg%3fw%3d2000&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>3</ymin>
+			<xmax>289</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

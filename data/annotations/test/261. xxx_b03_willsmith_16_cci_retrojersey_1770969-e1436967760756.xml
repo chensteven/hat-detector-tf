@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>261. xxx_b03_willsmith_16_cci_retrojersey_1770969-e1436967760756.jpg</filename>
+	<path>~/hat-detector/data/images/261. xxx_b03_willsmith_16_cci_retrojersey_1770969-e1436967760756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>788</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>3</ymin>
+			<xmax>658</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

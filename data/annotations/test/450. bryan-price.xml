@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>450. bryan-price.png</filename>
+	<path>~/hat-detector/data/images/450. bryan-price.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>1</ymin>
+			<xmax>272</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

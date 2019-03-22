@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>25. portrait-of-man-with-baseball-cap-picture-id159405300?s=612x612.jpg</filename>
+	<path>~/hat-detector/data/images/25. portrait-of-man-with-baseball-cap-picture-id159405300?s=612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>43</ymin>
+			<xmax>472</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

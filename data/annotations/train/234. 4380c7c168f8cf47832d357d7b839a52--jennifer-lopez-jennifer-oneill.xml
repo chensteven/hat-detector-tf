@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>234. 4380c7c168f8cf47832d357d7b839a52--jennifer-lopez-jennifer-oneill.jpg</filename>
+	<path>~/hat-detector/data/images/234. 4380c7c168f8cf47832d357d7b839a52--jennifer-lopez-jennifer-oneill.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>18</ymin>
+			<xmax>128</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

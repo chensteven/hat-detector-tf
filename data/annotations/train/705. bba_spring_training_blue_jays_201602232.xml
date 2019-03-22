@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>705. bba_spring_training_blue_jays_201602232.jpg</filename>
+	<path>~/hat-detector/data/images/705. bba_spring_training_blue_jays_201602232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>43</ymin>
+			<xmax>135</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

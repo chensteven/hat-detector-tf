@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>368. arthur_rhodes.jpg</filename>
+	<path>~/hat-detector/data/images/368. arthur_rhodes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>3</ymin>
+			<xmax>401</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

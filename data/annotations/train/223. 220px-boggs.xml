@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesHat</folder>
+	<filename>223. 220px-boggs.jpg</filename>
+	<path>~/hat-detector/data/images/223. 220px-boggs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>7</ymin>
+			<xmax>169</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

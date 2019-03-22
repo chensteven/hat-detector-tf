@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesHat</folder>
+	<filename>244. joc-champ-pederson.jpg</filename>
+	<path>~/hat-detector/data/images/244. joc-champ-pederson.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>104</ymin>
+			<xmax>279</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>26</ymin>
+			<xmax>951</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

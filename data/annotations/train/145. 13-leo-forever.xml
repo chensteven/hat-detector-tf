@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>145. 13-leo-forever.jpg</filename>
+	<path>~/hat-detector/data/images/145. 13-leo-forever.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>112</ymin>
+			<xmax>404</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

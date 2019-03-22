@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>381. jeff-bezos-amazon-sunglasses-e1524088413219.jpg</filename>
+	<path>~/hat-detector/data/images/381. jeff-bezos-amazon-sunglasses-e1524088413219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>5</ymin>
+			<xmax>209</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>

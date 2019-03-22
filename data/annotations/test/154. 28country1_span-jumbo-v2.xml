@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>154. 28country1_span-jumbo-v2.jpg</filename>
+	<path>~/hat-detector/data/images/154. 28country1_span-jumbo-v2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>2</ymin>
+			<xmax>227</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

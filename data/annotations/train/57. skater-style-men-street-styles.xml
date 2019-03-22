@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>57. skater-style-men-street-styles.jpg</filename>
+	<path>~/hat-detector/data/images/57. skater-style-men-street-styles.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>934</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>11</ymin>
+			<xmax>606</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

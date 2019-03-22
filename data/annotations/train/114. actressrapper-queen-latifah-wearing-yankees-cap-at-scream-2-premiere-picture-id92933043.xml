@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>114. actressrapper-queen-latifah-wearing-yankees-cap-at-scream-2-premiere-picture-id92933043.jpg</filename>
+	<path>~/hat-detector/data/images/114. actressrapper-queen-latifah-wearing-yankees-cap-at-scream-2-premiere-picture-id92933043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>537</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>26</ymin>
+			<xmax>494</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

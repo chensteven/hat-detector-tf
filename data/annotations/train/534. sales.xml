@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>534. sales.png</filename>
+	<path>~/hat-detector/data/images/534. sales.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1019</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>4</ymin>
+			<xmax>808</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

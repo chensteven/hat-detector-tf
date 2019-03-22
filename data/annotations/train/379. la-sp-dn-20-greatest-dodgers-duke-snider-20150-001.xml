@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>379. la-sp-dn-20-greatest-dodgers-duke-snider-20150-001.jpg</filename>
+	<path>~/hat-detector/data/images/379. la-sp-dn-20-greatest-dodgers-duke-snider-20150-001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1843</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>31</ymin>
+			<xmax>1316</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

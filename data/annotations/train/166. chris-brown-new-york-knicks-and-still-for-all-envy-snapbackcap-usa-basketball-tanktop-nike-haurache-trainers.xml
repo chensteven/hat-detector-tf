@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>166. chris-brown-new-york-knicks-and-still-for-all-envy-snapbackcap-usa-basketball-tanktop-nike-haurache-trainers.jpg</filename>
+	<path>~/hat-detector/data/images/166. chris-brown-new-york-knicks-and-still-for-all-envy-snapbackcap-usa-basketball-tanktop-nike-haurache-trainers.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>59</ymin>
+			<xmax>274</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

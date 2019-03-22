@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>267. matt-damon-wearing-baseball-hat.jpg</filename>
+	<path>~/hat-detector/data/images/267. matt-damon-wearing-baseball-hat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>834</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>32</ymin>
+			<xmax>566</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

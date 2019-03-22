@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>368. chavs.jpg</filename>
+	<path>~/hat-detector/data/images/368. chavs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>13</ymin>
+			<xmax>171</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>23</ymin>
+			<xmax>301</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

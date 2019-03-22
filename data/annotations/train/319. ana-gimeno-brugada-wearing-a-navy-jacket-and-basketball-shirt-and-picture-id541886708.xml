@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>319. ana-gimeno-brugada-wearing-a-navy-jacket-and-basketball-shirt-and-picture-id541886708.jpg</filename>
+	<path>~/hat-detector/data/images/319. ana-gimeno-brugada-wearing-a-navy-jacket-and-basketball-shirt-and-picture-id541886708.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>2</ymin>
+			<xmax>584</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

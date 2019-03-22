@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>173. magahat.jpg</filename>
+	<path>~/hat-detector/data/images/173. magahat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>46</ymin>
+			<xmax>184</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

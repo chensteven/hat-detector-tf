@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>363. 1950s-1960s-granny-wearing-baseball-hat-vintage-images.jpg</filename>
+	<path>~/hat-detector/data/images/363. 1950s-1960s-granny-wearing-baseball-hat-vintage-images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>106</ymin>
+			<xmax>453</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

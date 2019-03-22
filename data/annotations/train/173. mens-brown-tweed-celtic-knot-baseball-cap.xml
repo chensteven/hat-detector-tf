@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>173. mens-brown-tweed-celtic-knot-baseball-cap.jpg</filename>
+	<path>~/hat-detector/data/images/173. mens-brown-tweed-celtic-knot-baseball-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>9</ymin>
+			<xmax>108</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

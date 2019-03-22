@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>220. default_kid-wearing-a-baseball-hat-mockup-and-raglan-t-shirt-while-holding-a-bat-a15172.png</filename>
+	<path>~/hat-detector/data/images/220. default_kid-wearing-a-baseball-hat-mockup-and-raglan-t-shirt-while-holding-a-bat-a15172.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>67</ymin>
+			<xmax>353</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

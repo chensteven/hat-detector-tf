@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>9. walker-waxed-cotton-basebal.jpg</filename>
+	<path>~/hat-detector/data/images/9. walker-waxed-cotton-basebal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>585</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>49</ymin>
+			<xmax>518</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

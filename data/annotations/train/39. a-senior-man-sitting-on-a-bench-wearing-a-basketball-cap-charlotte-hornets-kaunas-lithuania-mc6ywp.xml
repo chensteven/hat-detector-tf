@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>39. a-senior-man-sitting-on-a-bench-wearing-a-basketball-cap-charlotte-hornets-kaunas-lithuania-mc6ywp.jpg</filename>
+	<path>~/hat-detector/data/images/39. a-senior-man-sitting-on-a-bench-wearing-a-basketball-cap-charlotte-hornets-kaunas-lithuania-mc6ywp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1103</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>149</ymin>
+			<xmax>996</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

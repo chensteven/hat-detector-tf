@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>63. snapback-hoodie-960x620.jpg</filename>
+	<path>~/hat-detector/data/images/63. snapback-hoodie-960x620.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>6</ymin>
+			<xmax>320</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>23</ymin>
+			<xmax>814</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

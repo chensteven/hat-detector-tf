@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>413. ap_18284625766631_c0-70-3644-2194_s885x516.jpg</filename>
+	<path>~/hat-detector/data/images/413. ap_18284625766631_c0-70-3644-2194_s885x516.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>885</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>1</ymin>
+			<xmax>514</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

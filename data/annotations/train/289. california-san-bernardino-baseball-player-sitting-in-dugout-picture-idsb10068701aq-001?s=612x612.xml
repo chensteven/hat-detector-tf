@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>289. california-san-bernardino-baseball-player-sitting-in-dugout-picture-idsb10068701aq-001?s=612x612.jpg</filename>
+	<path>~/hat-detector/data/images/289. california-san-bernardino-baseball-player-sitting-in-dugout-picture-idsb10068701aq-001?s=612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>5</ymin>
+			<xmax>292</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

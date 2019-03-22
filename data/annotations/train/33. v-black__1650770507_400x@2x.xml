@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>33. v-black__1650770507_400x@2x.jpg</filename>
+	<path>~/hat-detector/data/images/33. v-black__1650770507_400x@2x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>78</ymin>
+			<xmax>551</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

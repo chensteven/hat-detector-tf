@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>579. grioaug17bradegginkpah2___super_portrait.jpg</filename>
+	<path>~/hat-detector/data/images/579. grioaug17bradegginkpah2___super_portrait.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>2</ymin>
+			<xmax>406</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

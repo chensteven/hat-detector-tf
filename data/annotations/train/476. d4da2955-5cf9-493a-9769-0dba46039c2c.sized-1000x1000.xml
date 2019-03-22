@@ -1,0 +1,62 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>476. d4da2955-5cf9-493a-9769-0dba46039c2c.sized-1000x1000.jpg</filename>
+	<path>~/hat-detector/data/images/476. d4da2955-5cf9-493a-9769-0dba46039c2c.sized-1000x1000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>84</ymin>
+			<xmax>592</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>106</ymin>
+			<xmax>899</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>145</ymin>
+			<xmax>185</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>6</ymin>
+			<xmax>406</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

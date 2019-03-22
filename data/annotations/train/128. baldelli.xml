@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>128. baldelli.jpg</filename>
+	<path>~/hat-detector/data/images/128. baldelli.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>62</ymin>
+			<xmax>1605</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

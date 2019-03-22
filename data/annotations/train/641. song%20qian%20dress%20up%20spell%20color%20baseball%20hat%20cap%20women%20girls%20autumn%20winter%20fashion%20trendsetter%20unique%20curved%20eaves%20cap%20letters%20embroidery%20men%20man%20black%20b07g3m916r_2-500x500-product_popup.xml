@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>641. song%20qian%20dress%20up%20spell%20color%20baseball%20hat%20cap%20women%20girls%20autumn%20winter%20fashion%20trendsetter%20unique%20curved%20eaves%20cap%20letters%20embroidery%20men%20man%20black%20b07g3m916r_2-500x500-product_popup.jpg</filename>
+	<path>~/hat-detector/data/images/641. song%20qian%20dress%20up%20spell%20color%20baseball%20hat%20cap%20women%20girls%20autumn%20winter%20fashion%20trendsetter%20unique%20curved%20eaves%20cap%20letters%20embroidery%20men%20man%20black%20b07g3m916r_2-500x500-product_popup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>3</ymin>
+			<xmax>139</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

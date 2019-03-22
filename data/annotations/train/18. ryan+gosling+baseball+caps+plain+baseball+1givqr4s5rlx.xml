@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>18. ryan+gosling+baseball+caps+plain+baseball+1givqr4s5rlx.jpg</filename>
+	<path>~/hat-detector/data/images/18. ryan+gosling+baseball+caps+plain+baseball+1givqr4s5rlx.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>13</ymin>
+			<xmax>430</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

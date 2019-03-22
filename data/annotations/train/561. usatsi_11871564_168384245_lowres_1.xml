@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>561. usatsi_11871564_168384245_lowres_1.jpg</filename>
+	<path>~/hat-detector/data/images/561. usatsi_11871564_168384245_lowres_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2396</width>
+		<height>1597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>68</ymin>
+			<xmax>1420</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>187</ymin>
+			<xmax>1858</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

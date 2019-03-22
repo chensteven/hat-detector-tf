@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>247. stock-photo-smart-phone-social-media-using-technology-man-wearing-sunglasses-man-using-smart-phone-man-sitting-on-grass-looking-at-smart-phone-man-wearing-baseball-cap-21cf5bb8-e6b2-4f81-a4a2-0d0b18c15ded.jpg</filename>
+	<path>~/hat-detector/data/images/247. stock-photo-smart-phone-social-media-using-technology-man-wearing-sunglasses-man-using-smart-phone-man-sitting-on-grass-looking-at-smart-phone-man-wearing-baseball-cap-21cf5bb8-e6b2-4f81-a4a2-0d0b18c15ded.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>3</ymin>
+			<xmax>370</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

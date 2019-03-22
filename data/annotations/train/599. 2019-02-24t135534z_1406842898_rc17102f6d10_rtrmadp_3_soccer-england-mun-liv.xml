@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>599. 2019-02-24t135534z_1406842898_rc17102f6d10_rtrmadp_3_soccer-england-mun-liv.jpg</filename>
+	<path>~/hat-detector/data/images/599. 2019-02-24t135534z_1406842898_rc17102f6d10_rtrmadp_3_soccer-england-mun-liv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>2</ymin>
+			<xmax>282</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

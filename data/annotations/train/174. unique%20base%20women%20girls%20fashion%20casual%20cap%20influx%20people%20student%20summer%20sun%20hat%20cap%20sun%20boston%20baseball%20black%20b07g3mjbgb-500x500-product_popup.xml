@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>174. unique%20base%20women%20girls%20fashion%20casual%20cap%20influx%20people%20student%20summer%20sun%20hat%20cap%20sun%20boston%20baseball%20black%20b07g3mjbgb-500x500-product_popup.jpg</filename>
+	<path>~/hat-detector/data/images/174. unique%20base%20women%20girls%20fashion%20casual%20cap%20influx%20people%20student%20summer%20sun%20hat%20cap%20sun%20boston%20baseball%20black%20b07g3mjbgb-500x500-product_popup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>25</ymin>
+			<xmax>372</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

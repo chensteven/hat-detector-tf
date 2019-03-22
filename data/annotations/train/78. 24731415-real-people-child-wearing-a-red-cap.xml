@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>78. 24731415-real-people-child-wearing-a-red-cap.jpg</filename>
+	<path>~/hat-detector/data/images/78. 24731415-real-people-child-wearing-a-red-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>861</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>148</ymin>
+			<xmax>689</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

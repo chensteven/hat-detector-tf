@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>614. brad-pitt-600-10.jpg</filename>
+	<path>~/hat-detector/data/images/614. brad-pitt-600-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>19</ymin>
+			<xmax>580</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

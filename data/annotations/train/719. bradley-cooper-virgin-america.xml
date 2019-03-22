@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>719. bradley-cooper-virgin-america.jpg</filename>
+	<path>~/hat-detector/data/images/719. bradley-cooper-virgin-america.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>5</ymin>
+			<xmax>67</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>9</ymin>
+			<xmax>271</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

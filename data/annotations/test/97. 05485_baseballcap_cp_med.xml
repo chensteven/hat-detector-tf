@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>97. 05485_baseballcap_cp_med.jpg</filename>
+	<path>~/hat-detector/data/images/97. 05485_baseballcap_cp_med.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>8</ymin>
+			<xmax>254</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

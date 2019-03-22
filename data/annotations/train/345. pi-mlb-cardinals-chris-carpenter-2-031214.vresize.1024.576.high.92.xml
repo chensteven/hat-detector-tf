@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>345. pi-mlb-cardinals-chris-carpenter-2-031214.vresize.1024.576.high.92.jpg</filename>
+	<path>~/hat-detector/data/images/345. pi-mlb-cardinals-chris-carpenter-2-031214.vresize.1024.576.high.92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>2</ymin>
+			<xmax>727</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

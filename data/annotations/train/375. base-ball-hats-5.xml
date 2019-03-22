@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>375. base-ball-hats-5.jpg</filename>
+	<path>~/hat-detector/data/images/375. base-ball-hats-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>7</ymin>
+			<xmax>203</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>22</ymin>
+			<xmax>514</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

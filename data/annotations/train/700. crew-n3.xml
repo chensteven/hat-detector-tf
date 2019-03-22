@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>700. crew-n3.jpg</filename>
+	<path>~/hat-detector/data/images/700. crew-n3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>33</ymin>
+			<xmax>791</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

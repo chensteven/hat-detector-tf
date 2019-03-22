@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>612. 5208385_032019-ktrk-storyful-maga-hat-vigil-img.jpg</filename>
+	<path>~/hat-detector/data/images/612. 5208385_032019-ktrk-storyful-maga-hat-vigil-img.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>41</ymin>
+			<xmax>412</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>12</ymin>
+			<xmax>1117</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>454. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f08%2ftiger-woods.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/454. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f08%2ftiger-woods.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>30</ymin>
+			<xmax>391</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>209. ap_angels_dodgers_baseball_98762713.jpg</filename>
+	<path>~/hat-detector/data/images/209. ap_angels_dodgers_baseball_98762713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>56</ymin>
+			<xmax>618</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

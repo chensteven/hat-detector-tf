@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>40. sub-buzz-24102-1497460828-3.png</filename>
+	<path>~/hat-detector/data/images/40. sub-buzz-24102-1497460828-3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>92</ymin>
+			<xmax>279</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

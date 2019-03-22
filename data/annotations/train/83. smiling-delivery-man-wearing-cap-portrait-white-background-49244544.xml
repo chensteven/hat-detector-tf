@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>83. smiling-delivery-man-wearing-cap-portrait-white-background-49244544.jpg</filename>
+	<path>~/hat-detector/data/images/83. smiling-delivery-man-wearing-cap-portrait-white-background-49244544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>22</ymin>
+			<xmax>875</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

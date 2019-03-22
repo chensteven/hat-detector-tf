@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>111. graphicstock-picture-of-african-happy-man-wearing-cap-walking-on-the-beach-looking-aside_huza9lquhe_sb_pm.jpg</filename>
+	<path>~/hat-detector/data/images/111. graphicstock-picture-of-african-happy-man-wearing-cap-walking-on-the-beach-looking-aside_huza9lquhe_sb_pm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>85</ymin>
+			<xmax>711</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

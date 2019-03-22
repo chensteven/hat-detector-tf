@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>211. tress-cap.jpg</filename>
+	<path>~/hat-detector/data/images/211. tress-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6250</width>
+		<height>3515</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>850</ymin>
+			<xmax>3085</xmax>
+			<ymax>3415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4025</xmin>
+			<ymin>85</ymin>
+			<xmax>5500</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

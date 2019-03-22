@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>8. young-woman-wearing-basketball-cap-holding-bottle-of-water-portrait-picture-idsb10061982d-003.jpg</filename>
+	<path>~/hat-detector/data/images/8. young-woman-wearing-basketball-cap-holding-bottle-of-water-portrait-picture-idsb10061982d-003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>65</ymin>
+			<xmax>829</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

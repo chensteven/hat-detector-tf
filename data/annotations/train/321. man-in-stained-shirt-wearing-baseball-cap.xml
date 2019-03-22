@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>321. man-in-stained-shirt-wearing-baseball-cap.jpg</filename>
+	<path>~/hat-detector/data/images/321. man-in-stained-shirt-wearing-baseball-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>561</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>65</ymin>
+			<xmax>307</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

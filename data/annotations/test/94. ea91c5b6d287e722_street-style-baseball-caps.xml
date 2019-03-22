@@ -1,0 +1,62 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>94. ea91c5b6d287e722_street-style-baseball-caps.jpg</filename>
+	<path>~/hat-detector/data/images/94. ea91c5b6d287e722_street-style-baseball-caps.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>4</ymin>
+			<xmax>260</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>6</ymin>
+			<xmax>492</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>311</ymin>
+			<xmax>499</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>371</ymin>
+			<xmax>227</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

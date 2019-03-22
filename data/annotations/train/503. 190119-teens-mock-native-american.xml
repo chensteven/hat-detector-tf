@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>503. 190119-teens-mock-native-american.jpg</filename>
+	<path>~/hat-detector/data/images/503. 190119-teens-mock-native-american.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>111</ymin>
+			<xmax>922</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1077</xmin>
+			<ymin>354</ymin>
+			<xmax>1280</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1128</xmin>
+			<ymin>498</ymin>
+			<xmax>1410</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>132. http%3a%2f%2fcom.ft.imagepublish.prod.s3.amazonaws.com%2fe3ebb77c-2449-11e7-a34a-538b4cb30025?source=next&amp;fit=scale-down&amp;width=600.jpg</filename>
+	<path>~/hat-detector/data/images/132. http%3a%2f%2fcom.ft.imagepublish.prod.s3.amazonaws.com%2fe3ebb77c-2449-11e7-a34a-538b4cb30025?source=next&amp;fit=scale-down&amp;width=600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>17</ymin>
+			<xmax>281</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>112. royafw.jpg</filename>
+	<path>~/hat-detector/data/images/112. royafw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>827</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>36</ymin>
+			<xmax>550</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

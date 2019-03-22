@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>34. i?img=%2fmedia%2fmotion%2f2017%2f0403%2fdm_170403_misc_undefeated_capconvo%2fdm_170403_misc_undefeated_capconvo.jpg&amp;w=1150.jpg</filename>
+	<path>~/hat-detector/data/images/34. i?img=%2fmedia%2fmotion%2f2017%2f0403%2fdm_170403_misc_undefeated_capconvo%2fdm_170403_misc_undefeated_capconvo.jpg&amp;w=1150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1150</width>
+		<height>647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>123</ymin>
+			<xmax>964</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

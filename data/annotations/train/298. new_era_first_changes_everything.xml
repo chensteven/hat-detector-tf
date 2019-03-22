@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>298. new_era_first_changes_everything.jpg</filename>
+	<path>~/hat-detector/data/images/298. new_era_first_changes_everything.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>56</ymin>
+			<xmax>737</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

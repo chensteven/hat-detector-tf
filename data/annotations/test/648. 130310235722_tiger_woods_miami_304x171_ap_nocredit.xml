@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>648. 130310235722_tiger_woods_miami_304x171_ap_nocredit.jpg</filename>
+	<path>~/hat-detector/data/images/648. 130310235722_tiger_woods_miami_304x171_ap_nocredit.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>1</ymin>
+			<xmax>668</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>697. blue-jays-6-man-rotation-body-image-1470842795.jpg</filename>
+	<path>~/hat-detector/data/images/697. blue-jays-6-man-rotation-body-image-1470842795.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>7</ymin>
+			<xmax>206</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>77</ymin>
+			<xmax>123</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

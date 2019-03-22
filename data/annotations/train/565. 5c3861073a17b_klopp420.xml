@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>565. 5c3861073a17b_klopp420.jpg</filename>
+	<path>~/hat-detector/data/images/565. 5c3861073a17b_klopp420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>21</ymin>
+			<xmax>297</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

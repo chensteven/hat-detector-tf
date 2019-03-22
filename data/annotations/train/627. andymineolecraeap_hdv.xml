@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>627. andymineolecraeap_hdv.jpg</filename>
+	<path>~/hat-detector/data/images/627. andymineolecraeap_hdv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>13</ymin>
+			<xmax>475</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

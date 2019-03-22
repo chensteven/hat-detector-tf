@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>20. teenage-boy-wearing-baseball-cap-stock-image__u22129465.jpg</filename>
+	<path>~/hat-detector/data/images/20. teenage-boy-wearing-baseball-cap-stock-image__u22129465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>109</ymin>
+			<xmax>202</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

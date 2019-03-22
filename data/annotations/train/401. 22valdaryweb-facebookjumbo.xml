@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>401. 22valdaryweb-facebookjumbo.jpg</filename>
+	<path>~/hat-detector/data/images/401. 22valdaryweb-facebookjumbo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>8</ymin>
+			<xmax>247</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>2</ymin>
+			<xmax>972</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

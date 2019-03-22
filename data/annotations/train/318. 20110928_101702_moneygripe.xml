@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>318. 20110928_101702_moneygripe.jpg</filename>
+	<path>~/hat-detector/data/images/318. 20110928_101702_moneygripe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>5</ymin>
+			<xmax>142</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>8</ymin>
+			<xmax>278</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

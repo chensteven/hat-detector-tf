@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>385. 180223_wn_muir6_16x9_384.jpg</filename>
+	<path>~/hat-detector/data/images/385. 180223_wn_muir6_16x9_384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>1</ymin>
+			<xmax>287</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

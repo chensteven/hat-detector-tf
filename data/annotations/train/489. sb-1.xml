@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>489. sb-1.png</filename>
+	<path>~/hat-detector/data/images/489. sb-1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1125</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>68</ymin>
+			<xmax>861</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

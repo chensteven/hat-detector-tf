@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>77. handsome-man-wearing-baseball-cap-handsome-man-wearing-baseball-cap-looking-camera-isolated-white-123877825.jpg</filename>
+	<path>~/hat-detector/data/images/77. handsome-man-wearing-baseball-cap-handsome-man-wearing-baseball-cap-looking-camera-isolated-white-123877825.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>3</ymin>
+			<xmax>1001</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

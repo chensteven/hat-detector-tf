@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>335. mark-maidment-gee16.jpg</filename>
+	<path>~/hat-detector/data/images/335. mark-maidment-gee16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7527</width>
+		<height>5107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4603</xmin>
+			<ymin>2668</ymin>
+			<xmax>5603</xmax>
+			<ymax>3408</ymax>
+		</bndbox>
+	</object>
+</annotation>

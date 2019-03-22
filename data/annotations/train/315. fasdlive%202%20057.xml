@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>315. fasdlive%202%20057.jpg</filename>
+	<path>~/hat-detector/data/images/315. fasdlive%202%20057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>72</ymin>
+			<xmax>1494</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

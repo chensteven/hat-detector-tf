@@ -1,0 +1,86 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>234. many-people-play-baseball-united-states_6ae30a136a08664b.jpg</filename>
+	<path>~/hat-detector/data/images/234. many-people-play-baseball-united-states_6ae30a136a08664b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>57</ymin>
+			<xmax>181</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>41</ymin>
+			<xmax>250</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>56</ymin>
+			<xmax>300</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>44</ymin>
+			<xmax>337</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>39</ymin>
+			<xmax>419</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>39</ymin>
+			<xmax>513</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>581. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f09%2fmaga-kanye.jpg%3fw%3d2000&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/581. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f09%2fmaga-kanye.jpg%3fw%3d2000&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>17</ymin>
+			<xmax>283</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

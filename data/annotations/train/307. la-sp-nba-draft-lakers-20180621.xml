@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>307. la-sp-nba-draft-lakers-20180621.jpg</filename>
+	<path>~/hat-detector/data/images/307. la-sp-nba-draft-lakers-20180621.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>38</ymin>
+			<xmax>295</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

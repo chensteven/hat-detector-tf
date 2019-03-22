@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>216. 170829162120-trump-usa-hats-2-340xa.jpg</filename>
+	<path>~/hat-detector/data/images/216. 170829162120-trump-usa-hats-2-340xa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>31</ymin>
+			<xmax>215</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

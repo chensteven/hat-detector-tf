@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>233. leonardo-dicaprio-fau-cap.jpg</filename>
+	<path>~/hat-detector/data/images/233. leonardo-dicaprio-fau-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>613</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>65</ymin>
+			<xmax>365</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

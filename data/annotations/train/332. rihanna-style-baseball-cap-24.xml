@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>332. rihanna-style-baseball-cap-24.jpg</filename>
+	<path>~/hat-detector/data/images/332. rihanna-style-baseball-cap-24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>1104</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>102</ymin>
+			<xmax>465</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

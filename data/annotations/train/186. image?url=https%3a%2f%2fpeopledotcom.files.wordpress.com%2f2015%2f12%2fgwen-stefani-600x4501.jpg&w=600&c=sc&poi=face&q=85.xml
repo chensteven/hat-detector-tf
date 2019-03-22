@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>186. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2015%2f12%2fgwen-stefani-600x4501.jpg&amp;w=600&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/186. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2015%2f12%2fgwen-stefani-600x4501.jpg&amp;w=600&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>6</ymin>
+			<xmax>315</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>82</ymin>
+			<xmax>176</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

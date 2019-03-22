@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>747. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2017%2f04%2fjeremy-jackson.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/747. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2017%2f04%2fjeremy-jackson.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>5</ymin>
+			<xmax>311</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

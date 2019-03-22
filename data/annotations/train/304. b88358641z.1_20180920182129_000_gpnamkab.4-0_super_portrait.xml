@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>304. b88358641z.1_20180920182129_000_gpnamkab.4-0_super_portrait.jpg</filename>
+	<path>~/hat-detector/data/images/304. b88358641z.1_20180920182129_000_gpnamkab.4-0_super_portrait.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>6</ymin>
+			<xmax>222</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>110. phil_mccormack_protest_caps_848x480_1046803523626.jpg</filename>
+	<path>~/hat-detector/data/images/110. phil_mccormack_protest_caps_848x480_1046803523626.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>16</ymin>
+			<xmax>305</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>509. neymar-a16b.jpg</filename>
+	<path>~/hat-detector/data/images/509. neymar-a16b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1144</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>1</ymin>
+			<xmax>633</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

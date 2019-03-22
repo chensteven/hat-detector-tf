@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>206. lesbian-rumors.jpg</filename>
+	<path>~/hat-detector/data/images/206. lesbian-rumors.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>32</ymin>
+			<xmax>216</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>

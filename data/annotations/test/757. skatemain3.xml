@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>757. skatemain3.jpg</filename>
+	<path>~/hat-detector/data/images/757. skatemain3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>1</ymin>
+			<xmax>379</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

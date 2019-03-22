@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>188. tired-casual-old-man-wearing-baseball-hat-and-sunglasses-picture-id495519588?s=170667a&amp;w=1007.jpg</filename>
+	<path>~/hat-detector/data/images/188. tired-casual-old-man-wearing-baseball-hat-and-sunglasses-picture-id495519588?s=170667a&amp;w=1007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>12</ymin>
+			<xmax>336</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

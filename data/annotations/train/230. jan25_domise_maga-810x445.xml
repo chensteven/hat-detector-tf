@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>230. jan25_domise_maga-810x445.jpg</filename>
+	<path>~/hat-detector/data/images/230. jan25_domise_maga-810x445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>15</ymin>
+			<xmax>473</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

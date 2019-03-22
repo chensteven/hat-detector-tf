@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>131. sku-105622-baseball-cap-us-air-force-_1_grande.jpg</filename>
+	<path>~/hat-detector/data/images/131. sku-105622-baseball-cap-us-air-force-_1_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>3</ymin>
+			<xmax>307</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

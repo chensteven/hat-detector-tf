@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>48. babe_ruth_red_sox_1918.jpg</filename>
+	<path>~/hat-detector/data/images/48. babe_ruth_red_sox_1918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>532</width>
+		<height>387</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>24</ymin>
+			<xmax>325</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

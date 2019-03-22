@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>372. young-man-with-long-curly-hair-in-a-baseball-cap-picture-id905300138?k=6&amp;m=905300138&amp;s=612x612&amp;w=0&amp;h=4knouve_fkz7ic9j5tcvf51pylb78te9yu7hkiokeds=.jpg</filename>
+	<path>~/hat-detector/data/images/372. young-man-with-long-curly-hair-in-a-baseball-cap-picture-id905300138?k=6&amp;m=905300138&amp;s=612x612&amp;w=0&amp;h=4knouve_fkz7ic9j5tcvf51pylb78te9yu7hkiokeds=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>2</ymin>
+			<xmax>415</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

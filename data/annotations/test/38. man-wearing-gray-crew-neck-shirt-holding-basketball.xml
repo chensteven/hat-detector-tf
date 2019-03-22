@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>38. man-wearing-gray-crew-neck-shirt-holding-basketball.jpg</filename>
+	<path>~/hat-detector/data/images/38. man-wearing-gray-crew-neck-shirt-holding-basketball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4891</width>
+		<height>3597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymin>661</ymin>
+			<xmax>2985</xmax>
+			<ymax>1381</ymax>
+		</bndbox>
+	</object>
+</annotation>

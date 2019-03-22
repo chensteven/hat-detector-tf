@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>405. 180829091629-carmen-yulin-cruz-8-29-01-large-169.jpg</filename>
+	<path>~/hat-detector/data/images/405. 180829091629-carmen-yulin-cruz-8-29-01-large-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>1</ymin>
+			<xmax>281</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

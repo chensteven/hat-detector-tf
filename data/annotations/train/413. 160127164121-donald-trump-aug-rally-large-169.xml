@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>413. 160127164121-donald-trump-aug-rally-large-169.jpg</filename>
+	<path>~/hat-detector/data/images/413. 160127164121-donald-trump-aug-rally-large-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>138</ymin>
+			<xmax>155</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>141</ymin>
+			<xmax>304</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>154</ymin>
+			<xmax>31</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

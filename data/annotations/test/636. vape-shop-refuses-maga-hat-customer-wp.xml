@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>636. vape-shop-refuses-maga-hat-customer-wp.jpg</filename>
+	<path>~/hat-detector/data/images/636. vape-shop-refuses-maga-hat-customer-wp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>441</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>63</ymin>
+			<xmax>287</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>49</ymin>
+			<xmax>574</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

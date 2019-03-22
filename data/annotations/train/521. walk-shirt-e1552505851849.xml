@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>521. walk-shirt-e1552505851849.jpg</filename>
+	<path>~/hat-detector/data/images/521. walk-shirt-e1552505851849.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>306</ymin>
+			<xmax>651</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

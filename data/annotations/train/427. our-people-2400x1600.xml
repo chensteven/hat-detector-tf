@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesHat</folder>
+	<filename>427. our-people-2400x1600.jpg</filename>
+	<path>~/hat-detector/data/images/427. our-people-2400x1600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1002</xmin>
+			<ymin>411</ymin>
+			<xmax>1356</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>503</ymin>
+			<xmax>547</xmax>
+			<ymax>807</ymax>
+		</bndbox>
+	</object>
+</annotation>

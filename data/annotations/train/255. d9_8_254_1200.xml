@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>255. d9_8_254_1200.jpg</filename>
+	<path>~/hat-detector/data/images/255. d9_8_254_1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>37</ymin>
+			<xmax>617</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>130</ymin>
+			<xmax>1006</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

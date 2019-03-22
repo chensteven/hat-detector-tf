@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>452. why-john-gibbons-is-the-right-man-to-lead-the-blue-jays-body-image-1490201644.jpg</filename>
+	<path>~/hat-detector/data/images/452. why-john-gibbons-is-the-right-man-to-lead-the-blue-jays-body-image-1490201644.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>9</ymin>
+			<xmax>293</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>260. naomi+campbell+naomi+campbell+wearing+elect+5kfd4nseltjl.jpg</filename>
+	<path>~/hat-detector/data/images/260. naomi+campbell+naomi+campbell+wearing+elect+5kfd4nseltjl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>444</width>
+		<height>594</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>57</ymin>
+			<xmax>313</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

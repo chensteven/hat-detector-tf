@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>13. 5ba181561850820634192525_mens-printed-baseball-cap.jpeg</filename>
+	<path>~/hat-detector/data/images/13. 5ba181561850820634192525_mens-printed-baseball-cap.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>5</ymin>
+			<xmax>579</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

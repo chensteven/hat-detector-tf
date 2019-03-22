@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>74. real-people-hispanic-little-boy-wearing-baseball-cap-silly-sunglasses-picture-id166379382.jpg</filename>
+	<path>~/hat-detector/data/images/74. real-people-hispanic-little-boy-wearing-baseball-cap-silly-sunglasses-picture-id166379382.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>441</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>1</ymin>
+			<xmax>434</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

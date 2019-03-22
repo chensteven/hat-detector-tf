@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>157. sku-106705-baseball-cap-flying-fortress-digital-camo--_2_grande.jpg</filename>
+	<path>~/hat-detector/data/images/157. sku-106705-baseball-cap-flying-fortress-digital-camo--_2_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>6</ymin>
+			<xmax>421</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

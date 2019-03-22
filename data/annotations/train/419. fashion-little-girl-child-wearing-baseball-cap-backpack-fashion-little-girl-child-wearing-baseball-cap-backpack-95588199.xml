@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>419. fashion-little-girl-child-wearing-baseball-cap-backpack-fashion-little-girl-child-wearing-baseball-cap-backpack-95588199.jpg</filename>
+	<path>~/hat-detector/data/images/419. fashion-little-girl-child-wearing-baseball-cap-backpack-fashion-little-girl-child-wearing-baseball-cap-backpack-95588199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1168</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>131</ymin>
+			<xmax>588</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

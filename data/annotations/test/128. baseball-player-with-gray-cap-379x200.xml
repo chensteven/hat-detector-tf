@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>128. baseball-player-with-gray-cap-379x200.jpg</filename>
+	<path>~/hat-detector/data/images/128. baseball-player-with-gray-cap-379x200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>379</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>6</ymin>
+			<xmax>266</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

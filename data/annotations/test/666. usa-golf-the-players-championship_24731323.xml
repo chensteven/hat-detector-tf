@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>666. usa-golf-the-players-championship_24731323.jpg</filename>
+	<path>~/hat-detector/data/images/666. usa-golf-the-players-championship_24731323.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3436</width>
+		<height>2912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymin>227</ymin>
+			<xmax>2260</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+</annotation>

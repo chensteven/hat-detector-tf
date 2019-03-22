@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>266. d_abreo_robin.jpg</filename>
+	<path>~/hat-detector/data/images/266. d_abreo_robin.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>24</ymin>
+			<xmax>214</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

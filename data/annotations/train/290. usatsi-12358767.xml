@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>290. usatsi-12358767.jpg</filename>
+	<path>~/hat-detector/data/images/290. usatsi-12358767.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>17</ymin>
+			<xmax>564</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

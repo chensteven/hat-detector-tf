@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>331. main-qimg-c91a98f876de49da1847dced9583ff0d.jpg</filename>
+	<path>~/hat-detector/data/images/331. main-qimg-c91a98f876de49da1847dced9583ff0d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>793</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>17</ymin>
+			<xmax>345</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

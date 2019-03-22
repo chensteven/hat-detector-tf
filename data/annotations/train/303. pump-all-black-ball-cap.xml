@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>303. pump-all-black-ball-cap.jpg</filename>
+	<path>~/hat-detector/data/images/303. pump-all-black-ball-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>85</ymin>
+			<xmax>541</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

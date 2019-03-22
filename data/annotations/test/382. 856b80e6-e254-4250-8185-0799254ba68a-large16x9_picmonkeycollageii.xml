@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>382. 856b80e6-e254-4250-8185-0799254ba68a-large16x9_picmonkeycollageii.jpg</filename>
+	<path>~/hat-detector/data/images/382. 856b80e6-e254-4250-8185-0799254ba68a-large16x9_picmonkeycollageii.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>986</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>40</ymin>
+			<xmax>535</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

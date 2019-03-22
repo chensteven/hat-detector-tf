@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>118. free-people-philly-red-daisies-in-the-outfield-baseball-hat.jpeg</filename>
+	<path>~/hat-detector/data/images/118. free-people-philly-red-daisies-in-the-outfield-baseball-hat.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1780</width>
+		<height>2375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>4</ymin>
+			<xmax>1555</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

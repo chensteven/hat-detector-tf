@@ -1,0 +1,62 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>25. pexels-photo-823724.jpeg</filename>
+	<path>~/hat-detector/data/images/25. pexels-photo-823724.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4928</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>120</ymin>
+			<xmax>2134</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2055</xmin>
+			<ymin>1503</ymin>
+			<xmax>2955</xmax>
+			<ymax>2151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2903</xmin>
+			<ymin>1421</ymin>
+			<xmax>3434</xmax>
+			<ymax>1990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3555</xmin>
+			<ymin>1634</ymin>
+			<xmax>4051</xmax>
+			<ymax>2021</ymax>
+		</bndbox>
+	</object>
+</annotation>

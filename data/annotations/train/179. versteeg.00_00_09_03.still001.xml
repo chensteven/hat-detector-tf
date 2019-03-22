@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>179. versteeg.00_00_09_03.still001.jpg</filename>
+	<path>~/hat-detector/data/images/179. versteeg.00_00_09_03.still001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>3</ymin>
+			<xmax>288</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

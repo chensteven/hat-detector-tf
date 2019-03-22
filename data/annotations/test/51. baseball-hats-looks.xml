@@ -1,0 +1,74 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>51. baseball-hats-looks.jpg</filename>
+	<path>~/hat-detector/data/images/51. baseball-hats-looks.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>11</ymin>
+			<xmax>145</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>6</ymin>
+			<xmax>326</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>16</ymin>
+			<xmax>539</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>351</ymin>
+			<xmax>548</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>356</ymin>
+			<xmax>223</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>93. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f12%2fkevin-spacey-2.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>~/hat-detector/data/images/93. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f12%2fkevin-spacey-2.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>8</ymin>
+			<xmax>269</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

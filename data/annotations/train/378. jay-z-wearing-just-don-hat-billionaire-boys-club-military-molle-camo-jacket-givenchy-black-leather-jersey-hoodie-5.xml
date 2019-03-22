@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>378. jay-z-wearing-just-don-hat-billionaire-boys-club-military-molle-camo-jacket-givenchy-black-leather-jersey-hoodie-5.jpg</filename>
+	<path>~/hat-detector/data/images/378. jay-z-wearing-just-don-hat-billionaire-boys-club-military-molle-camo-jacket-givenchy-black-leather-jersey-hoodie-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>892</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>49</ymin>
+			<xmax>365</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

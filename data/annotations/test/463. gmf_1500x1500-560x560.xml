@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>463. gmf_1500x1500-560x560.png</filename>
+	<path>~/hat-detector/data/images/463. gmf_1500x1500-560x560.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>70</ymin>
+			<xmax>380</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

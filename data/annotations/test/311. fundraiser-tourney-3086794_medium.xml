@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>311. fundraiser-tourney-3086794_medium.jpg</filename>
+	<path>~/hat-detector/data/images/311. fundraiser-tourney-3086794_medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>25</ymin>
+			<xmax>246</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>23</ymin>
+			<xmax>383</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>255. m77gpkjpobcbhnkkffjgbriiam.jpg</filename>
+	<path>~/hat-detector/data/images/255. m77gpkjpobcbhnkkffjgbriiam.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>35</ymin>
+			<xmax>521</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

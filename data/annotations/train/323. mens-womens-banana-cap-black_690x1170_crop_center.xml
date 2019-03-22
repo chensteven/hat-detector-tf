@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>323. mens-womens-banana-cap-black_690x1170_crop_center.jpg</filename>
+	<path>~/hat-detector/data/images/323. mens-womens-banana-cap-black_690x1170_crop_center.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>1170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>31</ymin>
+			<xmax>555</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>177. 60271912-head-and-shoulders-of-young-teenage-boy-wearing-baseball-cap-and-plaid-shirt-looking-mesmerized-by-f.jpg</filename>
+	<path>~/hat-detector/data/images/177. 60271912-head-and-shoulders-of-young-teenage-boy-wearing-baseball-cap-and-plaid-shirt-looking-mesmerized-by-f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>36</ymin>
+			<xmax>866</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

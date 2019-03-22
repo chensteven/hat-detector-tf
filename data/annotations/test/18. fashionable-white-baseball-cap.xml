@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>18. fashionable-white-baseball-cap.jpg</filename>
+	<path>~/hat-detector/data/images/18. fashionable-white-baseball-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>42</ymin>
+			<xmax>851</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

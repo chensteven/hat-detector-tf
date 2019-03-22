@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>389. mother-and-son-wearing-baseball-caps-stock-photo__bld192103.jpg</filename>
+	<path>~/hat-detector/data/images/389. mother-and-son-wearing-baseball-caps-stock-photo__bld192103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>67</ymin>
+			<xmax>384</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>86</ymin>
+			<xmax>277</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

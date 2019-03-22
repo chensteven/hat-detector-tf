@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>427. ootd-casualwear.jpg</filename>
+	<path>~/hat-detector/data/images/427. ootd-casualwear.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2108</width>
+		<height>2775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>318</ymin>
+			<xmax>1213</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

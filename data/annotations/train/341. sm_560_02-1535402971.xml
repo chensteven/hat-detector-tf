@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>341. sm_560_02-1535402971.jpg</filename>
+	<path>~/hat-detector/data/images/341. sm_560_02-1535402971.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>55</ymin>
+			<xmax>271</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

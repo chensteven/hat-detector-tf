@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>515. 1298005690558_original_super_portrait.jpg</filename>
+	<path>~/hat-detector/data/images/515. 1298005690558_original_super_portrait.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>302</width>
+		<height>417</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>24</ymin>
+			<xmax>292</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

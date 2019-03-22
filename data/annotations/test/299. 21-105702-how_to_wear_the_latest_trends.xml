@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>299. 21-105702-how_to_wear_the_latest_trends.jpg</filename>
+	<path>~/hat-detector/data/images/299. 21-105702-how_to_wear_the_latest_trends.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>1</ymin>
+			<xmax>663</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>551. matt-arrived-set-wearing-baseball-hat.jpg</filename>
+	<path>~/hat-detector/data/images/551. matt-arrived-set-wearing-baseball-hat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>65</ymin>
+			<xmax>656</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

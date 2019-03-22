@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>107. stock-photo-stylish-attractive-hipster-man-in-a-black-basketball-cap-in-a-fashionable-black-sunglasses-in-a-1276239970.jpg</filename>
+	<path>~/hat-detector/data/images/107. stock-photo-stylish-attractive-hipster-man-in-a-black-basketball-cap-in-a-fashionable-black-sunglasses-in-a-1276239970.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>2</ymin>
+			<xmax>308</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>617. people-women-outdoors-women-women-with-glasses-bicycle-vehicle-smiling-jean-shorts-hands-on-head-baseball-caps-women-with-bikes-spring-vacation-girl-beauty-season-woman-lady-photo-shoot-53590.jpg</filename>
+	<path>~/hat-detector/data/images/617. people-women-outdoors-women-women-with-glasses-bicycle-vehicle-smiling-jean-shorts-hands-on-head-baseball-caps-women-with-bikes-spring-vacation-girl-beauty-season-woman-lady-photo-shoot-53590.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>85</ymin>
+			<xmax>858</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

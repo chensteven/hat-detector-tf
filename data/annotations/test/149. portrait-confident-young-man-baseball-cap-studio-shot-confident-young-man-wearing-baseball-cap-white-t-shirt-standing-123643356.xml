@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>149. portrait-confident-young-man-baseball-cap-studio-shot-confident-young-man-wearing-baseball-cap-white-t-shirt-standing-123643356.jpg</filename>
+	<path>~/hat-detector/data/images/149. portrait-confident-young-man-baseball-cap-studio-shot-confident-young-man-wearing-baseball-cap-white-t-shirt-standing-123643356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1130</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>29</ymin>
+			<xmax>970</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

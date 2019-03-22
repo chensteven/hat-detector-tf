@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>192. david-beckham_2.jpg</filename>
+	<path>~/hat-detector/data/images/192. david-beckham_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>884</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>17</ymin>
+			<xmax>480</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>500. seneca-wallace.jpg</filename>
+	<path>~/hat-detector/data/images/500. seneca-wallace.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>641</width>
+		<height>455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>24</ymin>
+			<xmax>352</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>33</ymin>
+			<xmax>527</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

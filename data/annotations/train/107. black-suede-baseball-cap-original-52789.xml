@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>107. black-suede-baseball-cap-original-52789.jpg</filename>
+	<path>~/hat-detector/data/images/107. black-suede-baseball-cap-original-52789.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>4</ymin>
+			<xmax>475</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

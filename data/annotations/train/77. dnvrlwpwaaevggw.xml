@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Hat Images</folder>
+	<filename>77. dnvrlwpwaaevggw.jpg</filename>
+	<path>~/hat-detector/data/images/77. dnvrlwpwaaevggw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>18</ymin>
+			<xmax>465</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>249</ymin>
+			<xmax>603</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

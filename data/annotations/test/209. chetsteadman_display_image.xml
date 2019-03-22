@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>209. chetsteadman_display_image.jpg</filename>
+	<path>~/hat-detector/data/images/209. chetsteadman_display_image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>28</ymin>
+			<xmax>150</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

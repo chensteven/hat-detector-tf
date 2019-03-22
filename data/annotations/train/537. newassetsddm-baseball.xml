@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>537. newassetsddm-baseball.jpg</filename>
+	<path>~/hat-detector/data/images/537. newassetsddm-baseball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>19</ymin>
+			<xmax>384</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

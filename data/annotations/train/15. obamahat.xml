@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>15. obamahat.jpg</filename>
+	<path>~/hat-detector/data/images/15. obamahat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>22</ymin>
+			<xmax>343</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

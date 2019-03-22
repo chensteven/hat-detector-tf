@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>637. boyz-in-the-hood-september-2016-01.jpg</filename>
+	<path>~/hat-detector/data/images/637. boyz-in-the-hood-september-2016-01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>111</ymin>
+			<xmax>141</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>113</ymin>
+			<xmax>505</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

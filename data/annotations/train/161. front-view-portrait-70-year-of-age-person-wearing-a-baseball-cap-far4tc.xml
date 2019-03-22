@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>161. front-view-portrait-70-year-of-age-person-wearing-a-baseball-cap-far4tc.jpg</filename>
+	<path>~/hat-detector/data/images/161. front-view-portrait-70-year-of-age-person-wearing-a-baseball-cap-far4tc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>85</ymin>
+			<xmax>736</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>155. 071817_atari_0152.jpg</filename>
+	<path>~/hat-detector/data/images/155. 071817_atari_0152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>315</ymin>
+			<xmax>702</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>520</ymin>
+			<xmax>1491</xmax>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+</annotation>

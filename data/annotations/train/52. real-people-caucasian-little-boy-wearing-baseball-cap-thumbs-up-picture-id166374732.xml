@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>52. real-people-caucasian-little-boy-wearing-baseball-cap-thumbs-up-picture-id166374732.jpg</filename>
+	<path>~/hat-detector/data/images/52. real-people-caucasian-little-boy-wearing-baseball-cap-thumbs-up-picture-id166374732.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>31</ymin>
+			<xmax>659</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

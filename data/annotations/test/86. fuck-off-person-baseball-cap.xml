@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>86. fuck-off-person-baseball-cap.jpg</filename>
+	<path>~/hat-detector/data/images/86. fuck-off-person-baseball-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>56</ymin>
+			<xmax>360</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

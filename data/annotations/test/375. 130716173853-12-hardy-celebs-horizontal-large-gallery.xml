@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>375. 130716173853-12-hardy-celebs-horizontal-large-gallery.jpg</filename>
+	<path>~/hat-detector/data/images/375. 130716173853-12-hardy-celebs-horizontal-large-gallery.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>1</ymin>
+			<xmax>794</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

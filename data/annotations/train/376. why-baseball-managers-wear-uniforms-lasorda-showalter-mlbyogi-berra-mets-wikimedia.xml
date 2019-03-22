@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>376. why-baseball-managers-wear-uniforms-lasorda-showalter-mlbyogi-berra-mets-wikimedia.jpg</filename>
+	<path>~/hat-detector/data/images/376. why-baseball-managers-wear-uniforms-lasorda-showalter-mlbyogi-berra-mets-wikimedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>223</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>15</ymin>
+			<xmax>129</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

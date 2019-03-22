@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>215. e0e9437b59b73d71fc30e1f5890577dc--classy-men-vampire-dairies.jpg</filename>
+	<path>~/hat-detector/data/images/215. e0e9437b59b73d71fc30e1f5890577dc--classy-men-vampire-dairies.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>554</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>3</ymin>
+			<xmax>391</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

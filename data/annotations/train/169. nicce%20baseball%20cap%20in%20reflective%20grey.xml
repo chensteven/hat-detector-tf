@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>169. nicce%20baseball%20cap%20in%20reflective%20grey.jpg</filename>
+	<path>~/hat-detector/data/images/169. nicce%20baseball%20cap%20in%20reflective%20grey.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>284</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>3</ymin>
+			<xmax>168</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

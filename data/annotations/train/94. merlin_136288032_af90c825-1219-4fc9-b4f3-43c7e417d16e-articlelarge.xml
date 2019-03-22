@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>94. merlin_136288032_af90c825-1219-4fc9-b4f3-43c7e417d16e-articlelarge.jpg</filename>
+	<path>~/hat-detector/data/images/94. merlin_136288032_af90c825-1219-4fc9-b4f3-43c7e417d16e-articlelarge.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>429</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>57</ymin>
+			<xmax>383</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

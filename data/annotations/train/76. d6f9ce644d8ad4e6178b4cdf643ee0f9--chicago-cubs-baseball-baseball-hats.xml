@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>76. d6f9ce644d8ad4e6178b4cdf643ee0f9--chicago-cubs-baseball-baseball-hats.jpg</filename>
+	<path>~/hat-detector/data/images/76. d6f9ce644d8ad4e6178b4cdf643ee0f9--chicago-cubs-baseball-baseball-hats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>3</ymin>
+			<xmax>183</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

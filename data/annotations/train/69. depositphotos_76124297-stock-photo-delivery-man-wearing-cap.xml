@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>69. depositphotos_76124297-stock-photo-delivery-man-wearing-cap.jpg</filename>
+	<path>~/hat-detector/data/images/69. depositphotos_76124297-stock-photo-delivery-man-wearing-cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>57</ymin>
+			<xmax>178</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

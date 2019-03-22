@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>10. ti-wearing-a-clevland-cavaliers-cap-and-kobe-bryant-lower-merion-basketball-gx7xd5.jpg</filename>
+	<path>~/hat-detector/data/images/10. ti-wearing-a-clevland-cavaliers-cap-and-kobe-bryant-lower-merion-basketball-gx7xd5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>218</ymin>
+			<xmax>575</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

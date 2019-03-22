@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>107. gtnh09142017_molnar_848x480_1046975555768.jpg</filename>
+	<path>~/hat-detector/data/images/107. gtnh09142017_molnar_848x480_1046975555768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>17</ymin>
+			<xmax>187</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>5</ymin>
+			<xmax>316</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>25</ymin>
+			<xmax>370</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

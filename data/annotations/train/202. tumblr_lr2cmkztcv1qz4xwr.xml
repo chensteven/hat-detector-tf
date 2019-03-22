@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>202. tumblr_lr2cmkztcv1qz4xwr.jpg</filename>
+	<path>~/hat-detector/data/images/202. tumblr_lr2cmkztcv1qz4xwr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>7</ymin>
+			<xmax>316</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

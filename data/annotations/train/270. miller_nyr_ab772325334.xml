@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>270. miller_nyr_ab772325334.jpg</filename>
+	<path>~/hat-detector/data/images/270. miller_nyr_ab772325334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>4</ymin>
+			<xmax>342</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

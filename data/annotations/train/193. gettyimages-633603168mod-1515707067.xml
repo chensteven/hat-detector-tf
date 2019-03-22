@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>193. gettyimages-633603168mod-1515707067.jpg</filename>
+	<path>~/hat-detector/data/images/193. gettyimages-633603168mod-1515707067.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>5</ymin>
+			<xmax>429</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

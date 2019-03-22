@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>273. umps.png</filename>
+	<path>~/hat-detector/data/images/273. umps.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>38</ymin>
+			<xmax>270</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

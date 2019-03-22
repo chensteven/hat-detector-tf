@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>272. 20161221-gents-009-1320__23300.1492147933.jpg</filename>
+	<path>~/hat-detector/data/images/272. 20161221-gents-009-1320__23300.1492147933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>103</ymin>
+			<xmax>358</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

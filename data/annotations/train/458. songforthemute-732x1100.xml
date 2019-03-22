@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>458. songforthemute-732x1100.jpg</filename>
+	<path>~/hat-detector/data/images/458. songforthemute-732x1100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>732</width>
+		<height>1100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>112</ymin>
+			<xmax>464</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

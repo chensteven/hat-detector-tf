@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>56. 67523623-portrait-of-staring-man-with-goatee-wearing-baseball-cap-white-background.jpg</filename>
+	<path>~/hat-detector/data/images/56. 67523623-portrait-of-staring-man-with-goatee-wearing-baseball-cap-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>24</ymin>
+			<xmax>911</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

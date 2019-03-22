@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>162. machado.jpg</filename>
+	<path>~/hat-detector/data/images/162. machado.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>3</ymin>
+			<xmax>464</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

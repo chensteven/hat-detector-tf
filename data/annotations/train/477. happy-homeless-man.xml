@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>477. happy-homeless-man.jpg</filename>
+	<path>~/hat-detector/data/images/477. happy-homeless-man.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>2</ymin>
+			<xmax>695</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

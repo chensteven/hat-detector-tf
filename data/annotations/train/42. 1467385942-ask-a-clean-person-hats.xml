@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesHat</folder>
+	<filename>42. 1467385942-ask-a-clean-person-hats.jpg</filename>
+	<path>~/hat-detector/data/images/42. 1467385942-ask-a-clean-person-hats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1318</width>
+		<height>794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>68</ymin>
+			<xmax>1104</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>23</ymin>
+			<xmax>297</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

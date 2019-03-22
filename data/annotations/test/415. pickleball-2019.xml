@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>415. pickleball-2019.jpg</filename>
+	<path>~/hat-detector/data/images/415. pickleball-2019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>775</width>
+		<height>525</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>17</ymin>
+			<xmax>427</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

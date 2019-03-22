@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>282. fafasanz.jpg</filename>
+	<path>~/hat-detector/data/images/282. fafasanz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1079</width>
+		<height>1079</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>78</ymin>
+			<xmax>563</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

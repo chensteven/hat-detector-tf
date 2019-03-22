@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>245. 170px-jackie_robinson%2c_brooklyn_dodgers%2c_1954.jpg</filename>
+	<path>~/hat-detector/data/images/245. 170px-jackie_robinson%2c_brooklyn_dodgers%2c_1954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>218</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>49</ymin>
+			<xmax>119</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

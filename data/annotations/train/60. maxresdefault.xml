@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>60. maxresdefault.jpg</filename>
+	<path>~/hat-detector/data/images/60. maxresdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>522</xmin>
+			<ymin>58</ymin>
+			<xmax>814</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

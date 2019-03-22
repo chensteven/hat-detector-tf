@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagesHat</folder>
+	<filename>96. https%3a%2f%2fspecials-images.forbesimg.com%2fdam%2fimageserve%2f950509634%2f960x0.jpg%3ffit%3dscale.jpg</filename>
+	<path>~/hat-detector/data/images/96. https%3a%2f%2fspecials-images.forbesimg.com%2fdam%2fimageserve%2f950509634%2f960x0.jpg%3ffit%3dscale.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>1</ymin>
+			<xmax>334</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

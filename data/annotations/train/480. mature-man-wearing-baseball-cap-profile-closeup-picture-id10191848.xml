@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>480. mature-man-wearing-baseball-cap-profile-closeup-picture-id10191848.jpg</filename>
+	<path>~/hat-detector/data/images/480. mature-man-wearing-baseball-cap-profile-closeup-picture-id10191848.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>938</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>199</ymin>
+			<xmax>897</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Hat Images</folder>
+	<filename>126. jd_product_list?plu=jd_240038_b&amp;qlt=80&amp;w=300&amp;h=300&amp;v=1.jpg</filename>
+	<path>~/hat-detector/data/images/126. jd_product_list?plu=jd_240038_b&amp;qlt=80&amp;w=300&amp;h=300&amp;v=1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>3</ymin>
+			<xmax>197</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>
