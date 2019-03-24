@@ -23,11 +23,11 @@ def move(arr, dest):
     
 
 def main():
-    xmls = glob.glob('./*/*/*.xml')
+    xmls = glob.glob('./*/*/*/*.xml')
     xmls = shuffle(xmls)
     train, test = split(xmls)
     train_path = './data/annotations/train'
     test_path = './data/annotations/test'
-    move(train, train_path)
-    move(test, test_path)
+#    move(train, train_path)
+#    move(test, test_path)
 main()

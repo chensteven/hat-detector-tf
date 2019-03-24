@@ -1,4 +1,6 @@
+model/
+output_inference_graph_v1.pb/
 *.record
-data/images/*
+dataset
 .DS_Store
 ssd_mobilenet_v1_coco_2018_01_28/
