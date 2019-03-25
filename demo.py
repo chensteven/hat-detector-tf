@@ -4,6 +4,15 @@ from utils import label_map_util
 from utils import visualization_utils as vis_util
 import cv2
 import time
+from skvideo.io import FFmpegWriter
+import helper
+
+from keras.preprocessing import image
+from keras.applications.resnet50 import ResNet50
+
+
+from keras.layers import Dense, Activation, Flatten, Dropout
+from keras import backend as K
 
 def load_image_into_numpy_array(image):
   (im_width, im_height) = image.size
@@ -68,36 +77,68 @@ with detection_graph.as_default():
     od_graph_def.ParseFromString(serialized_graph)
     tf.import_graph_def(od_graph_def, name='')
 
-  category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABELS, use_display_name=True)
+category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABELS, use_display_name=True)
 
-  cap = cv2.VideoCapture(0)
+#cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('test.avi')
+output_video = FFmpegWriter("output_final.mp4")
 
-  while(True):
-    # Capture frame-by-frame
-    ret, frame = cap.read()
-    image_np = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-    # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
-    image_np_expanded = np.expand_dims(image_np, axis=0)
-    # Actual detection.
-    start_time = time.time()
-    output_dict = run_inference_for_single_image(image_np, detection_graph)
-    elapsed_time = time.time() - start_time
-    print('Inference time cost: {}'.format(elapsed_time))
-    # Our operations on the frame come here
-    # Display the resulting frame
-    img = vis_util.visualize_boxes_and_labels_on_image_array(
-    image_np,
-    output_dict['detection_boxes'],
-    output_dict['detection_classes'],
-    output_dict['detection_scores'],
-    category_index,
-    instance_masks=output_dict.get('detection_masks'),
-    use_normalized_coordinates=True,
-    line_thickness=8)
+class_list_file = "ResNet50_data_class_list.txt"
+class_list = helper.load_class_list(class_list_file)
 
-    cv2.imshow('frame',img)
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
+from keras.applications.resnet50 import preprocess_input
+preprocessing_function = preprocess_input
+WIDTH = 300
+HEIGHT = 300
+base_model = ResNet50(weights='imagenet', include_top=False, input_shape=(HEIGHT, WIDTH, 3))
+finetune_model = helper.build_finetune_model(base_model, 0.003, [1024, 1024], len(class_list))
+finetune_model.load_weights("ResNet50_model_weights.h5")
+
+
+#while(True):
+while(cap.isOpened()):
+  # Capture frame-by-frame
+  ret, frame = cap.read()
+  image_np = cv2.resize(frame, (800, 600))
+  # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
+  image_np_expanded = np.expand_dims(image_np, axis=0)
+  # Actual detection.
+  start_time = time.time()
+  output_dict = run_inference_for_single_image(image_np, detection_graph)
+  elapsed_time = time.time() - start_time
+  print('Inference time cost: {}'.format(elapsed_time))
+  # Our operations on the frame come here
+  # Display the resulting frame
+  coords = vis_util.visualize_boxes_and_labels_on_image_array(
+  image_np,
+  output_dict['detection_boxes'],
+  output_dict['detection_classes'],
+  output_dict['detection_scores'],
+  category_index,
+  instance_masks=output_dict.get('detection_masks'),
+  use_normalized_coordinates=True,
+  line_thickness=8)
+  # if coords:
+  #   target = coords[0]
+  #   img = image_np[target[2]:target[3], target[0]:target[1]]
+  #   height, width = img
+  #   img = preprocess_input(img.reshape(1, HEIGHT, WIDTH, 3))
+  #   st = time.time()
+  #   out = finetune_model.predict(img)
+  #   confidence = out[0]
+  #   class_prediction = list(out[0]).index(max(out[0]))
+  #   class_name = class_list[class_prediction]
+  #   run_time = time.time()-st
+
+  #   print("Predicted class = ", class_name)
+  #   print("Confidence = ", confidence)
+  #   print("Run time = ", run_time)
+
+  #   cv2.imwrite("preds/" + class_name[0] + ".jpg", image_np)
+  output_video.writeFrame(np.flip(image_np, 2))  
+  # cv2.imshow('frame',img)
+  # if cv2.waitKey(1) & 0xFF == ord('q'):
+  #     break
 
 # When everything done, release the capture
 cap.release()

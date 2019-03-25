@@ -1,3 +1,7 @@
+*__pycache__/
+ResNet50*
+*.avi
+*.mp4
 model/
 output_inference_graph_v1.pb/
 *.record
