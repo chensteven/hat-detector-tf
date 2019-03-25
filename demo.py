@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 from utils import label_map_util
-from utils import visualization_utils as vis_util
+from utils import visualization_utils_original as vis_util
 import cv2
 import time
 from skvideo.io import FFmpegWriter
@@ -79,11 +79,10 @@ with detection_graph.as_default():
 
 category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABELS, use_display_name=True)
 
-#cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture('test.avi')
+# cap = cv2.VideoCapture('test.avi')
 output_video = FFmpegWriter("output_final.mp4")
 
-class_list_file = "ResNet50_data_class_list.txt"
+class_list_file = "./classifier/checkpoints/ResNet50_data_class_list.txt"
 class_list = helper.load_class_list(class_list_file)
 
 from keras.applications.resnet50 import preprocess_input
@@ -92,14 +91,14 @@ WIDTH = 300
 HEIGHT = 300
 base_model = ResNet50(weights='imagenet', include_top=False, input_shape=(HEIGHT, WIDTH, 3))
 finetune_model = helper.build_finetune_model(base_model, 0.003, [1024, 1024], len(class_list))
-finetune_model.load_weights("ResNet50_model_weights.h5")
+finetune_model.load_weights("./classifier/checkpoints/ResNet50_model_weights.h5")
 
+cap = cv2.VideoCapture(0)
 
-#while(True):
-while(cap.isOpened()):
+while(True):
+# while(cap.isOpened()):
   # Capture frame-by-frame
-  ret, frame = cap.read()
-  image_np = cv2.resize(frame, (800, 600))
+  ret, image_np = cap.read()
   # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
   image_np_expanded = np.expand_dims(image_np, axis=0)
   # Actual detection.
@@ -109,7 +108,7 @@ while(cap.isOpened()):
   print('Inference time cost: {}'.format(elapsed_time))
   # Our operations on the frame come here
   # Display the resulting frame
-  coords = vis_util.visualize_boxes_and_labels_on_image_array(
+  vis_util.visualize_boxes_and_labels_on_image_array(
   image_np,
   output_dict['detection_boxes'],
   output_dict['detection_classes'],
@@ -136,9 +135,9 @@ while(cap.isOpened()):
 
   #   cv2.imwrite("preds/" + class_name[0] + ".jpg", image_np)
   output_video.writeFrame(np.flip(image_np, 2))  
-  # cv2.imshow('frame',img)
-  # if cv2.waitKey(1) & 0xFF == ord('q'):
-  #     break
+  cv2.imshow('frame',image_np)
+  if cv2.waitKey(1) & 0xFF == ord('q'):
+      break
 
 # When everything done, release the capture
 cap.release()
